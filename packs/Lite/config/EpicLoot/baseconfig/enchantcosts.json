@@ -2,38 +2,38 @@
   "DisenchantCosts": {
     "Magic": [
       {
-        "Item": "IronBountyToken",
+        "Item": "Coins",
         "Amount": 2
       }
     ],
     "Rare": [
       {
-        "Item": "IronBountyToken",
+        "Item": "Coins",
         "Amount": 3
       }
     ],
     "Epic": [
       {
-        "Item": "IronBountyToken",
+        "Item": "Coins",
         "Amount": 5
       }
     ],
     "Legendary": [
       {
-        "Item": "IronBountyToken",
-        "Amount": 7
+        "Item": "Coins",
+        "Amount": 10
       }
     ],
     "Mythic": [
       {
-        "Item": "IronBountyToken",
-        "Amount": 9
+        "Item": "Coins",
+        "Amount": 14
       }
     ],
     "Ancient": [
       {
-        "Item": "IronBountyToken",
-        "Amount": 11
+        "Item": "Coins",
+        "Amount": 18
       }
     ]
   },
@@ -1763,43 +1763,43 @@
   "ReAugmentCosts": [
     {
       "Item": "Coins",
-      "Amount": 500
+      "Amount": 25
     },
     {
       "Item": "Coins",
-      "Amount": 1000
+      "Amount": 50
     },
     {
       "Item": "Coins",
-      "Amount": 1500
+      "Amount": 75
     },
     {
       "Item": "Coins",
-      "Amount": 2000
+      "Amount": 100
     },
     {
       "Item": "Coins",
-      "Amount": 2500
+      "Amount": 150
     },
     {
       "Item": "Coins",
-      "Amount": 3500
+      "Amount": 200
     },
     {
       "Item": "Coins",
-      "Amount": 4000
+      "Amount": 275
     },
     {
       "Item": "Coins",
-      "Amount": 4500
+      "Amount": 350
     },
     {
       "Item": "Coins",
-      "Amount": 5000
+      "Amount": 450
     },
     {
       "Item": "Coins",
-      "Amount": 5500
+      "Amount": 600
     }
   ],
   "RuneExtractCosts": [
@@ -2197,10 +2197,10 @@
       "Costs": [
         {
           "Item": "Coins",
-          "Amount": 50
+          "Amount": 10
         },
         {
-          "Item": "GoldBountyToken",
+          "Item": "Gold",
           "Amount": 2
         }
       ]
@@ -2252,10 +2252,10 @@
       "Costs": [
         {
           "Item": "Coins",
-          "Amount": 50
+          "Amount": 10
         },
         {
-          "Item": "GoldBountyToken",
+          "Item": "Gold",
           "Amount": 2
         }
       ]
@@ -2277,10 +2277,10 @@
       "Costs": [
         {
           "Item": "Coins",
-          "Amount": 150
+          "Amount": 25
         },
         {
-          "Item": "GoldBountyToken",
+          "Item": "Gold",
           "Amount": 3
         }
       ]

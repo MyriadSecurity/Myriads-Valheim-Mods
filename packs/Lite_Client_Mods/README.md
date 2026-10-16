@@ -1,6 +1,6 @@
 # Myriad Lite Client Mods
 
-Optional client-side extras for **Myriad Lite** — HUD, build camera, quickslots, planting assist, hover info, achievements with mods.
+Optional client-side extras for **Myriad Lite** — HUD, build camera, quickslots, planting assist, hover info, living map, achievements with mods.
 
 Install on **player machines only**. Do **not** put this on the dedicated server.
 

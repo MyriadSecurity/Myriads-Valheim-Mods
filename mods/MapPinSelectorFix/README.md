@@ -11,11 +11,12 @@ Use this when the pin icons sit off the right edge of the screen (common on ultr
 | Key | Default | Notes |
 |-----|---------|--------|
 | `Enabled` | `true` | Master switch |
-| `OffsetX` | `-240` | Negative = left (toward map) |
-| `OffsetY` | `0` | Positive = up |
-| `Scale` | `1` | Size multiplier |
+| `OffsetX` | `-340` | Negative = left (toward map) |
+| `OffsetY` | `200` | Positive = up |
+| `Scale` | `0.8` | Size multiplier |
 | `IncludeFilterPanel` | `true` | Death/boss column |
 | `IncludePingPanel` | `true` | Ping icon |
+| `LogApplies` | `true` | Log applies to `MapPinSelectorFix.log` |
 
 Tweaks apply on next large-map open, or live via Configuration Manager while the map is open.
 

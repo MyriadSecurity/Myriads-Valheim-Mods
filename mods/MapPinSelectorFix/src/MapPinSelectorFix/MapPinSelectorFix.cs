@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace Myriad.MapPinSelectorFix;
 
-[BepInPlugin("myriad.mappinselectorfix", "Myriad Map Pin Selector Fix", "1.4.0")]
+[BepInPlugin("myriad.mappinselectorfix", "Myriad Map Pin Selector Fix", "1.4.1")]
 public class MapPinSelectorFixPlugin : BaseUnityPlugin
 {
     internal static MapPinSelectorFixPlugin? Instance;
@@ -28,23 +28,23 @@ public class MapPinSelectorFixPlugin : BaseUnityPlugin
         try
         {
             LogPath = Path.Combine(Paths.BepInExRootPath, "MapPinSelectorFix.log");
-            File.WriteAllText(LogPath, $"[{DateTime.Now:O}] Awake reached (v1.4.0)\n");
+            File.WriteAllText(LogPath, $"[{DateTime.Now:O}] Awake reached (v1.4.1)\n");
         }
         catch { }
 
         Enabled = Config.Bind("PinSelector", "Enabled", true,
             "Apply manual position/scale to the large-map pin selector column.");
-        OffsetX = Config.Bind("PinSelector", "OffsetX", -240f,
+        OffsetX = Config.Bind("PinSelector", "OffsetX", -340f,
             "Horizontal offset in UI units from the game's default panel position. Negative moves left (toward the map). Positive moves right.");
-        OffsetY = Config.Bind("PinSelector", "OffsetY", 0f,
+        OffsetY = Config.Bind("PinSelector", "OffsetY", 200f,
             "Vertical offset in UI units from the game's default panel position. Positive moves up.");
-        Scale = Config.Bind("PinSelector", "Scale", 1f,
+        Scale = Config.Bind("PinSelector", "Scale", 0.8f,
             "Scale multiplier for the pin selector panels. 1 = default size.");
         IncludeFilterPanel = Config.Bind("PinSelector", "IncludeFilterPanel", true,
             "Also move/scale IconPanel2 (death/boss filter icons).");
         IncludePingPanel = Config.Bind("PinSelector", "IncludePingPanel", true,
             "Also move/scale IconPingPanel (ping icon).");
-        LogApplies = Config.Bind("PinSelector", "LogApplies", false,
+        LogApplies = Config.Bind("PinSelector", "LogApplies", true,
             "Write apply lines to BepInEx/MapPinSelectorFix.log.");
 
         OffsetX.SettingChanged += (_, __) => MapHooks.ApplyIfLargeOpen();

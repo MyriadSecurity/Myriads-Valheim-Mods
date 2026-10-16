@@ -18,31 +18,31 @@
   "UpgradeCosts": {
     "Sacrifice": [
       null,
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 4 },
-        { "Item": "TrophySkeleton", "Amount": 2 } 
+        { "Item": "TrophySkeleton", "Amount": 2 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 10 },
         { "Item": "Bronze", "Amount": 4 },
         { "Item": "TrophySurtling", "Amount": 4 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 16 },
         { "Item": "Iron", "Amount": 4 },
         { "Item": "TrophyLeech", "Amount": 3 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 20 },
         { "Item": "Silver", "Amount": 4 },
         { "Item": "TrophySGolem", "Amount": 1 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 25 },
         { "Item": "BlackMetal", "Amount": 4 },
         { "Item": "TrophyGoblinShaman", "Amount": 1 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 30 },
         { "Item": "FlametalNew", "Amount": 4 },
         { "Item": "TrophyMorgen", "Amount": 1 }
@@ -141,75 +141,75 @@
       [
         { "Item": "ShardMagic", "Amount": 3 },
         { "Item": "SurtlingCore", "Amount": 3 },
-        { "Item": "Coins", "Amount": 200 }
+        { "Item": "Coins", "Amount": 40 }
       ],
       [
         { "Item": "ShardRare", "Amount": 3 },
         { "Item": "SurtlingCore", "Amount": 10 },
-        { "Item": "Coins", "Amount": 100 }
+        { "Item": "Coins", "Amount": 75 }
       ],
       [
         { "Item": "ShardEpic", "Amount": 3 },
         { "Item": "Thunderstone", "Amount": 5 },
-        { "Item": "Coins", "Amount": 200 }
+        { "Item": "Coins", "Amount": 125 }
       ],
       [
         { "Item": "ShardEpic", "Amount": 5 },
         { "Item": "YmirRemains", "Amount": 5 },
-        { "Item": "Coins", "Amount": 300 }
+        { "Item": "Coins", "Amount": 200 }
       ],
       [
         { "Item": "ShardLegendary", "Amount": 3 },
         { "Item": "GoblinTotem", "Amount": 5 },
-        { "Item": "Coins", "Amount": 500 }
+        { "Item": "Coins", "Amount": 300 }
       ],
       [
         { "Item": "ShardLegendary", "Amount": 8 },
         { "Item": "BlackCore", "Amount": 5 },
-        { "Item": "Coins", "Amount": 600 }
+        { "Item": "Coins", "Amount": 425 }
       ],
       [
         { "Item": "ShardMythic", "Amount": 3 },
         { "Item": "ShieldCore", "Amount": 5 },
-        { "Item": "Coins", "Amount": 700 }
+        { "Item": "Coins", "Amount": 575 }
       ],
       [
         { "Item": "ShardAncient", "Amount": 3 },
         { "Item": "AncientGemstoneBlack", "Amount": 5 },
-        { "Item": "Coins", "Amount": 800 }
+        { "Item": "Coins", "Amount": 750 }
       ]
     ],
     "Disenchant": [
       [
         { "Item": "SurtlingCore", "Amount": 5 },
-        { "Item": "IronBountyToken", "Amount": 3 }
+        { "Item": "Coins", "Amount": 5 }
       ],
       [
-        { "Item": "ForestToken", "Amount": 10 },
+        { "Item": "Coins", "Amount": 10 },
         { "Item": "Dandelion", "Amount": 100 }
       ],
       [
-        { "Item": "ForestToken", "Amount": 30 },
+        { "Item": "Coins", "Amount": 20 },
         { "Item": "MushroomYellow", "Amount": 100 }
       ],
       [
-        { "Item": "ForestToken", "Amount": 60 },
+        { "Item": "Coins", "Amount": 35 },
         { "Item": "FishRaw", "Amount": 60 }
       ],
       [
-        { "Item": "ForestToken", "Amount": 90 },
+        { "Item": "Coins", "Amount": 50 },
         { "Item": "Cloudberry", "Amount": 200 }
       ],
       [
-        { "Item": "ForestToken", "Amount": 120 },
+        { "Item": "Coins", "Amount": 75 },
         { "Item": "MushroomJotunPuffs", "Amount": 80 }
       ],
       [
-        { "Item": "ForestToken", "Amount": 150 },
+        { "Item": "Coins", "Amount": 100 },
         { "Item": "MushroomSmokePuff", "Amount": 80 }
       ],
       [
-        { "Item": "ForestToken", "Amount": 180 },
+        { "Item": "Coins", "Amount": 150 },
         { "Item": "Lingonberry", "Amount": 100 }
       ]
     ],
@@ -219,11 +219,11 @@
         { "Item": "Bronze", "Amount": 2 }
       ],
       [
-        { "Item": "IronBountyToken", "Amount": 5 },
+        { "Item": "Coins", "Amount": 5 },
         { "Item": "Iron", "Amount": 2 }
       ],
       [
-        { "Item": "GoldBountyToken", "Amount": 5 },
+        { "Item": "Coins", "Amount": 10 },
         { "Item": "Silver", "Amount": 2 }
       ],
       [
@@ -231,7 +231,7 @@
         { "Item": "BlackMetal", "Amount": 2 }
       ],
       [
-        { "Item": "GoldBountyToken", "Amount": 10 },
+        { "Item": "Coins", "Amount": 20 },
         { "Item": "Eitr", "Amount": 2 }
       ],
       [
