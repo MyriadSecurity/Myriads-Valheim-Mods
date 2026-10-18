@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.2
+- Updated LivingMap to 0.19.2.
+
 ## 0.1.1
 - Synced the client pack with the Gale MLite Client profile.
 - Added LivingMap and updated the installed client mod versions.

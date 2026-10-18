@@ -1,7 +1,7 @@
 {
     "name": "Myriad_Lite",
     "author": "Myriad",
-    "version_number": "0.1.3",
+    "version_number": "0.1.4",
     "website_url": "https://github.com/MyriadSecurity/Myriads-Valheim-Mods",
     "description": "A very lightweight Vanilla+ server pack: QoL, StarLevelSystem, materials-only EpicLoot. Pair with the Myriad Lite Client Mods for the optional full experience.",
     "dependencies": [
@@ -13,12 +13,12 @@
         "RandyKnapp-EpicLoot-0.14.13",
         "JereKuusela-Server_devcommands-1.115.0",
         "ishid4-BetterArchery-2.0.5",
-        "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15",
+        "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.16",
         "ValheimModding-YamlDotNet-16.3.1",
         "OdinPlus-OdinsFoodBarrels-1.4.0",
         "Nextek-SpeedyPaths-1.0.9",
         "blacks7ar-VikingsDoSwim-1.4.2",
-        "sighsorry-Homestead-1.3.4",
+        "sighsorry-Homestead-1.3.5",
         "MagicMike-MyDirtyHoe-2.3.2",
         "Smoothbrain-Backpacks-1.3.10",
         "JamesJonesTV-EpicLoot_EnchantingPouch-2.0.1",
@@ -29,14 +29,15 @@
         "RustyMods-Almanac-3.8.1",
         "TastyChickenLegs-NoSmokeStayLit-2.4.2",
         "shudnal-ConditionalConfigSync-1.0.11",
-        "Vapok-BetterSleepBruh-2.1.1",
+        "Vapok-BetterSleepBruh-2.1.2",
         "MSchmoecker-MultiUserChest-0.6.2",
         "Smoothbrain-DarwinAwards-1.0.7",
-        "MidnightMods-StarLevelSystem-1.26.2",
+        "MidnightMods-StarLevelSystem-1.26.3",
         "Advize-Armoire-1.2.2",
         "Azumatt-AzuCraftyBoxes-1.8.28",
         "Azumatt-WardIsLove-4.0.9",
         "Onononoki-IdolDrops-1.0.1",
-        "beijing_carlo-ForgeOfTruePotential-1.0.3"
+        "beijing_carlo-ForgeOfTruePotential-1.0.3",
+        "Balrond-balrond_secondchance-1.0.14"
     ]
 }

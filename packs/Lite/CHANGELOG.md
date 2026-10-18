@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+- Added Balrond Second Chance to the server pack.
+- Updated Quick Stack Store Sort Trash Restock, Homestead, BetterSleepBruh, and StarLevelSystem.
+
 ## 0.1.3
 - Added shipped WardIsLove settings with 100m maximum coverage.
 - Set AzuCraftyBoxes container access range to 50m.

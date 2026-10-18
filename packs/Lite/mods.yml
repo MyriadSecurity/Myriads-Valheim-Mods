@@ -202,7 +202,7 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 15
+    patch: 16
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -318,7 +318,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 4
+    patch: 5
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -576,7 +576,7 @@
   versionNumber:
     major: 2
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -645,7 +645,7 @@
   versionNumber:
     major: 1
     minor: 26
-    patch: 2
+    patch: 3
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -764,5 +764,25 @@
     major: 1
     minor: 0
     patch: 3
+  enabled: true
+  onlineSource: true
+- manifestVersion: 1
+  name: Balrond-balrond_secondchance
+  authorName: Balrond
+  websiteUrl: https://discord.gg/Jfp8T5N7Pv
+  displayName: balrond_secondchance
+  description: Adds Configurable Ressurection system to the game
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 14
   enabled: true
   onlineSource: true
