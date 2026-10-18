@@ -1,0 +1,150 @@
+"Epic Enchanting Pouch":
+  description: "A mystical pouch designed for enchanters, perfect for carrying essence dust, reagents, and runestones. Lightens their weight by 50%"
+  size: 2x4 # Initial size with 2 columns and 4 rows.
+  unique: type
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 9f00f3
+    Pot: 9f00f3
+    Teapot: 9f00f3
+    Knife: hidden
+    Pickaxe: hidden
+    Knifesheath: hidden
+    ToolstrapBottom: hidden
+    MetalclipLeft: hidden
+    PouchFront: 9f00f3
+    PouchLeft: 9f00f3
+    BackpackBody: 000000
+  crafting:
+    station: Forge
+    level: 1
+    costs:
+      DustMagic: 5
+      ReagentMagic: 5
+      EssenceMagic: 5
+      ShardMagic: 1
+  valid items:
+    - RunestoneMagic
+    - RunestoneRare
+    - RunestoneEpic
+    - RunestoneLegendary
+    - RunestoneMythic
+    - ShardMagic
+    - ShardRare
+    - ShardEpic
+    - ShardLegendary
+    - ShardMythic
+    - DustMagic
+    - DustRare
+    - DustEpic
+    - DustLegendary
+    - DustMythic
+    - ReagentMagic
+    - ReagentRare
+    - ReagentEpic
+    - ReagentLegendary
+    - ReagentMythic
+    - EssenceMagic
+    - EssenceRare
+    - EssenceEpic
+    - EssenceLegendary
+    - EssenceMythic
+    - ForestToken
+    - IronBountyToken
+    - GoldBountyToken
+    - Meadows_Magic_Unidentified
+    - Meadows_Rare_Unidentified
+    - Meadows_Epic_Unidentified
+    - Meadows_Legendary_Unidentified
+    - Meadows_Mythic_Unidentified
+    - BlackForest_Magic_Unidentified
+    - BlackForest_Rare_Unidentified
+    - BlackForest_Epic_Unidentified
+    - BlackForest_Legendary_Unidentified
+    - BlackForest_Mythic_Unidentified
+    - BlackForest_Mythic_Unidentified
+    - Swamp_Magic_Unidentified
+    - Swamp_Rare_Unidentified
+    - Swamp_Epic_Unidentified
+    - Swamp_Legendary_Unidentified
+    - Swamp_Mythic_Unidentified
+    - Mountain_Magic_Unidentified
+    - Mountain_Rare_Unidentified
+    - Mountain_Epic_Unidentified
+    - Mountain_Legendary_Unidentified
+    - Mountain_Mythic_Unidentified
+    - Plains_Magic_Unidentified
+    - Plains_Rare_Unidentified
+    - Plains_Epic_Unidentified
+    - Plains_Legendary_Unidentified
+    - Plains_Mythic_Unidentified
+    - Mistlands_Magic_Unidentified
+    - Mistlands_Rare_Unidentified
+    - Mistlands_Epic_Unidentified
+    - Mistlands_Legendary_Unidentified
+    - Mistlands_Mythic_Unidentified
+    - AshLands_Magic_Unidentified
+    - AshLands_Rare_Unidentified
+    - AshLands_Epic_Unidentified
+    - AshLands_Legendary_Unidentified
+    - AshLands_Mythic_Unidentified
+    - Ocean_Magic_Unidentified
+    - Ocean_Rare_Unidentified
+    - Ocean_Epic_Unidentified
+    - Ocean_Legendary_Unidentified
+    - Ocean_Mythic_Unidentified
+    - DeepNorth_Magic_Unidentified
+    - DeepNorth_Rare_Unidentified
+    - DeepNorth_Epic_Unidentified
+    - DeepNorth_Legendary_Unidentified
+    - DeepNorth_Mythic_Unidentified
+    - EtchedRunestoneMagic
+    - EtchedRunestoneRare
+    - EtchedRunestoneEpic
+    - EtchedRunestoneLegendary
+    - EtchedRunestoneMythic
+    - LeatherBelt
+    - SilverRing
+    - GoldRubyRing
+    - Andvaranaut
+    
+  upgrade:
+    1:
+      DustRare: 5
+      ReagentRare: 5
+      EssenceRare: 5
+      ShardRare: 1
+      size: 3x4
+    2:
+      DustRare: 10
+      ReagentRare: 10
+      ShardRare: 5
+      RunestoneRare: 1
+      size: 4x4
+    3:
+      DustEpic: 5
+      ReagentEpic: 5
+      EssenceEpic: 5
+      ShardEpic: 1
+      size: 5x4
+    4:
+      DustEpic: 10
+      ReagentEpic: 10
+      ShardEpic: 5
+      RunestoneEpic: 1
+      size: 6x4
+    5:
+      DustLegendary: 10
+      ReagentLegendary: 10
+      ShardLegendary: 5
+      RunestoneLegendary: 1
+      size: 7x4
+    6:
+      DustMythic: 10
+      ReagentMythic: 10
+      ShardMythic: 5
+      RunestoneMythic: 1
+      size: 8x4
+  weight factor: 0.50
+  teleport: true

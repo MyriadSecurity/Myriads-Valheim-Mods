@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.5
+- Added the EpicLoot Enchanting Pouch recipe configuration for Backpacks.
+
 ## 0.1.4
 - Added Balrond Second Chance to the server pack.
 - Updated Quick Stack Store Sort Trash Restock, Homestead, BetterSleepBruh, and StarLevelSystem.
