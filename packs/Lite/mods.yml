@@ -66,7 +66,7 @@
   versionNumber:
     major: 1
     minor: 21
-    patch: 3
+    patch: 4
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -128,15 +128,15 @@
   installedAtTime: 1790440315814
   loaders: []
   dependencies:
-    - denikson-BepInExPack_Valheim-5.4.2333
     - ValheimModding-JsonDotNET-13.0.4
-    - ValheimModding-Jotunn-2.29.2
+    - ValheimModding-Jotunn-2.30.2
+    - denikson-BepInExPack_Valheim-5.4.2351
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 14
-    patch: 13
+    minor: 15
+    patch: 1
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -157,7 +157,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 115
+    minor: 116
     patch: 0
   enabled: true
   onlineSource: true
@@ -318,7 +318,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 5
+    patch: 7
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -527,7 +527,7 @@
   versionNumber:
     major: 2
     minor: 4
-    patch: 2
+    patch: 3
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -637,15 +637,15 @@
   installedAtTime: 1790631893573
   loaders: []
   dependencies:
-    - denikson-BepInExPack_Valheim-5.4.2350
-    - ValheimModding-Jotunn-2.30.0
     - ValheimModding-YamlDotNet-16.3.1
+    - ValheimModding-Jotunn-2.30.2
+    - denikson-BepInExPack_Valheim-5.4.2351
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 26
-    patch: 3
+    minor: 27
+    patch: 0
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -783,6 +783,6 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 14
+    patch: 15
   enabled: true
   onlineSource: true

@@ -8,5 +8,5 @@ Requires **Myriad Lite** (or the same shared server mods) underneath.
 
 ## Install
 
-1. Install [r2modman](https://thunderstore.io/c/valheim/p/ebkr/r2modman/).
+1. Install [Gale](https://hexium.gg/mod-manager) to download dependencies from both Thunderstore and Hexium.
 2. Add **Myriad Lite**, then this pack, on each client.

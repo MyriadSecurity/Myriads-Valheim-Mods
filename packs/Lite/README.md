@@ -11,5 +11,5 @@ Optional client-only extras: **Lite Client Mods** (separate package).
 
 ## Install
 
-1. Install with [r2modman](https://thunderstore.io/c/valheim/p/ebkr/r2modman/) on the **server and every client**.
+1. Install with [Gale](https://hexium.gg/mod-manager) on the **server and every client**. Gale downloads dependencies from both Thunderstore and Hexium; this pack requires mods from both sources.
 2. Prefer a **fresh world**.

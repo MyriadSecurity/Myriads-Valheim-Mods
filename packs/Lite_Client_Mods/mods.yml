@@ -112,7 +112,7 @@
   versionNumber:
     major: 2
     minor: 3
-    patch: 0
+    patch: 1
   enabled: true
   onlineSource: true
 - manifestVersion: 1
@@ -134,7 +134,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 13
+    minor: 14
     patch: 0
   enabled: true
   onlineSource: true
@@ -220,16 +220,16 @@
   installedAtTime: 1790643873778
   loaders: []
   dependencies:
-    - denikson-BepInExPack_Valheim-5.4.2350
-    - shudnal-ConditionalConfigSync-1.0.5
     - ValheimModding-YamlDotNet-16.3.0
     - ValheimModding-JsonDotNET-13.0.3
+    - denikson-BepInExPack_Valheim-5.4.2350
+    - shudnal-ConditionalConfigSync-1.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 25
+    patch: 27
   enabled: true
   onlineSource: true
 - manifestVersion: 1

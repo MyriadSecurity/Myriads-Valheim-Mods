@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.6
+- Updated PlantEverything from 1.21.3 to 1.21.4.
+- Updated EpicLoot from 0.14.13 to 0.15.1.
+- Updated Server_devcommands from 1.115.0 to 1.116.0.
+- Updated Homestead from 1.3.5 to 1.3.7.
+- Updated NoSmokeStayLit from 2.4.2 to 2.4.3.
+- Updated StarLevelSystem from 1.26.3 to 1.27.0.
+- Updated balrond_secondchance from 1.0.14 to 1.0.15.
+- Fixed Forge of True Potential's zero-chance idol edge case causing idols to drop on nearly every kill.
+- Enabled external Backpacks YAML so the shipped Enchanting Pouch recipe is loaded.
+- Removed a duplicate Black Forest mythic item entry from the Enchanting Pouch configuration.
+- Updated installation instructions to use Gale for Thunderstore and Hexium dependencies.
+
 ## 0.1.5
 - Added the EpicLoot Enchanting Pouch recipe configuration for Backpacks.
 
