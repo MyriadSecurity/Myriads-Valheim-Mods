@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.7
+- Migrated the EpicLoot JSON and CFG settings to 0.15.1, including new enchantments, loot-table scaling, set-rune costs, and storage definitions.
+- Preserved materials-only drops, disabled Adventure Mode, existing enchantment tuning, and reduced crafting, conversion, and upgrade costs.
+- Fixed missing Magic-tier values for elemental resistance, physical resistance, and reduced attack eitr use.
+- Restored the Plains stone chest loot reference and converted legacy flat loot tables to the current leveled format.
+- Updated EpicLoot's config version records so the migrated pack settings no longer trigger the outdated-config prompt.
+- Disabled the automatic first-run wizard for this preconfigured pack; Quick Configure remains available from the Mod Config button.
+
 ## 0.1.6
 - Updated PlantEverything from 1.21.3 to 1.21.4.
 - Updated EpicLoot from 0.14.13 to 0.15.1.

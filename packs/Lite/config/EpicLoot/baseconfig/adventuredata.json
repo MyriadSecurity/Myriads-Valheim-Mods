@@ -5,171 +5,99 @@
     "Materials": [
       {
         "Item": "ShardMagic",
-        "CoinsCost": 5,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 5
       },
       {
         "Item": "DustMagic",
-        "CoinsCost": 5,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 5
       },
       {
         "Item": "ReagentMagic",
-        "CoinsCost": 5,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 5
       },
       {
         "Item": "EssenceMagic",
-        "CoinsCost": 5,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 5
       },
       {
         "Item": "ShardRare",
-        "CoinsCost": 25,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 25
       },
       {
         "Item": "DustRare",
-        "CoinsCost": 25,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 25
       },
       {
         "Item": "ReagentRare",
-        "CoinsCost": 25,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 25
       },
       {
         "Item": "EssenceRare",
-        "CoinsCost": 25,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 25
       },
       {
         "Item": "ShardEpic",
-        "CoinsCost": 100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 100
       },
       {
         "Item": "DustEpic",
-        "CoinsCost": 100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 100
       },
       {
         "Item": "ReagentEpic",
-        "CoinsCost": 100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 100
       },
       {
         "Item": "EssenceEpic",
-        "CoinsCost": 100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 100
       },
       {
         "Item": "ShardLegendary",
-        "CoinsCost": 300,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 300
       },
       {
         "Item": "DustLegendary",
-        "CoinsCost": 300,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 300
       },
       {
         "Item": "ReagentLegendary",
-        "CoinsCost": 300,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 300
       },
       {
         "Item": "EssenceLegendary",
-        "CoinsCost": 300,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 300
       },
       {
         "Item": "ShardMythic",
-        "CoinsCost": 600,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 600
       },
       {
         "Item": "DustMythic",
-        "CoinsCost": 600,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 600
       },
       {
         "Item": "ReagentMythic",
-        "CoinsCost": 600,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 600
       },
       {
         "Item": "EssenceMythic",
-        "CoinsCost": 600,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 600
       },
       {
         "Item": "ShardAncient",
-        "CoinsCost": 1000,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 1000
       },
       {
         "Item": "DustAncient",
-        "CoinsCost": 1000,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 1000
       },
       {
         "Item": "ReagentAncient",
-        "CoinsCost": 1000,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 1000
       },
       {
         "Item": "EssenceAncient",
-        "CoinsCost": 1000,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 1000
       }
     ],
     "RollsPerRarity": [
@@ -185,10 +113,7 @@
     "OtherItems": [
       {
         "Item": "Andvaranaut",
-        "CoinsCost": 1998,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "CoinsCost": 1998
       }
     ]
   },
@@ -2237,44 +2162,32 @@
       {
         "Item": "RunestoneMagic",
         "CoinsCost": 0,
-        "ForestTokenCost": 5,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "ForestTokenCost": 5
       },
       {
         "Item": "RunestoneRare",
         "CoinsCost": 0,
-        "ForestTokenCost": 10,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "ForestTokenCost": 10
       },
       {
         "Item": "RunestoneEpic",
         "CoinsCost": 0,
-        "ForestTokenCost": 15,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "ForestTokenCost": 15
       },
       {
         "Item": "RunestoneLegendary",
         "CoinsCost": 0,
-        "ForestTokenCost": 20,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "ForestTokenCost": 20
       },
       {
         "Item": "RunestoneMythic",
         "CoinsCost": 0,
-        "ForestTokenCost": 25,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "ForestTokenCost": 25
       },
       {
         "Item": "RunestoneAncient",
         "CoinsCost": 0,
-        "ForestTokenCost": 30,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
+        "ForestTokenCost": 30
       }
     ]
   },
@@ -2294,24 +2207,22 @@
         "Biome": "Meadows",
         "TargetID": "Deer",
         "RewardGold": 0,
-        "RewardIron": 1,
-        "RewardCoins": 25,
-        "Adds": []
-      },
-      {
-        "Biome": "Meadows",
-        "TargetID": "Boar",
-        "RewardGold": 0,
-        "RewardIron": 1,
-        "RewardCoins": 25,
-        "Adds": []
+        "RewardIron": 2,
+        "RewardCoins": 50
       },
       {
         "Biome": "Meadows",
         "TargetID": "Boar",
         "RewardGold": 0,
         "RewardIron": 2,
-        "RewardCoins": 30,
+        "RewardCoins": 50
+      },
+      {
+        "Biome": "Meadows",
+        "TargetID": "Boar",
+        "RewardGold": 0,
+        "RewardIron": 4,
+        "RewardCoins": 60,
         "Adds": [
           {
             "ID": "Boar",
@@ -2323,16 +2234,15 @@
         "Biome": "Meadows",
         "TargetID": "Neck",
         "RewardGold": 0,
-        "RewardIron": 1,
-        "RewardCoins": 25,
-        "Adds": []
+        "RewardIron": 2,
+        "RewardCoins": 50
       },
       {
         "Biome": "Meadows",
         "TargetID": "Neck",
         "RewardGold": 0,
-        "RewardIron": 2,
-        "RewardCoins": 30,
+        "RewardIron": 4,
+        "RewardCoins": 60,
         "Adds": [
           {
             "ID": "Neck",
@@ -2344,48 +2254,43 @@
         "Biome": "BlackForest",
         "TargetID": "Greydwarf",
         "RewardGold": 0,
-        "RewardIron": 2,
-        "RewardCoins": 75,
-        "Adds": []
+        "RewardIron": 4,
+        "RewardCoins": 150
       },
       {
         "Biome": "BlackForest",
         "TargetID": "Greydwarf",
         "RewardGold": 0,
-        "RewardIron": 2,
-        "RewardCoins": 75,
-        "Adds": []
-      },
-      {
-        "Biome": "BlackForest",
-        "TargetID": "Skeleton",
-        "RewardGold": 0,
-        "RewardIron": 2,
-        "RewardCoins": 75,
-        "Adds": []
-      },
-      {
-        "Biome": "BlackForest",
-        "TargetID": "Skeleton",
-        "RewardGold": 0,
-        "RewardIron": 2,
-        "RewardCoins": 75,
-        "Adds": []
-      },
-      {
-        "Biome": "BlackForest",
-        "TargetID": "Ghost",
-        "RewardGold": 0,
-        "RewardIron": 2,
-        "RewardCoins": 80,
-        "Adds": []
+        "RewardIron": 4,
+        "RewardCoins": 150
       },
       {
         "Biome": "BlackForest",
         "TargetID": "Skeleton",
         "RewardGold": 0,
         "RewardIron": 4,
-        "RewardCoins": 85,
+        "RewardCoins": 150
+      },
+      {
+        "Biome": "BlackForest",
+        "TargetID": "Skeleton",
+        "RewardGold": 0,
+        "RewardIron": 4,
+        "RewardCoins": 150
+      },
+      {
+        "Biome": "BlackForest",
+        "TargetID": "Ghost",
+        "RewardGold": 0,
+        "RewardIron": 4,
+        "RewardCoins": 160
+      },
+      {
+        "Biome": "BlackForest",
+        "TargetID": "Skeleton",
+        "RewardGold": 0,
+        "RewardIron": 8,
+        "RewardCoins": 170,
         "Adds": [
           {
             "ID": "Skeleton",
@@ -2396,25 +2301,23 @@
       {
         "Biome": "BlackForest",
         "TargetID": "Greydwarf_Elite",
-        "RewardGold": 1,
+        "RewardGold": 2,
         "RewardIron": 0,
-        "RewardCoins": 80,
-        "Adds": []
+        "RewardCoins": 160
       },
       {
         "Biome": "BlackForest",
         "TargetID": "Troll",
-        "RewardGold": 1,
+        "RewardGold": 2,
         "RewardIron": 0,
-        "RewardCoins": 90,
-        "Adds": []
+        "RewardCoins": 180
       },
       {
         "Biome": "BlackForest",
         "TargetID": "Greydwarf_Shaman",
-        "RewardGold": 1,
-        "RewardIron": 4,
-        "RewardCoins": 85,
+        "RewardGold": 2,
+        "RewardIron": 8,
+        "RewardCoins": 170,
         "Adds": [
           {
             "ID": "Greydwarf",
@@ -2425,81 +2328,72 @@
       {
         "Biome": "BlackForest",
         "TargetID": "Bjorn",
-        "RewardGold": 1,
+        "RewardGold": 2,
         "RewardIron": 0,
-        "RewardCoins": 80,
-        "Adds": []
+        "RewardCoins": 160
       },
       {
         "Biome": "Swamp",
         "TargetID": "Blob",
         "RewardGold": 0,
-        "RewardIron": 3,
-        "RewardCoins": 155,
-        "Adds": []
+        "RewardIron": 6,
+        "RewardCoins": 310
       },
       {
         "Biome": "Swamp",
         "TargetID": "Skeleton",
         "RewardGold": 0,
-        "RewardIron": 3,
-        "RewardCoins": 150,
-        "Adds": []
+        "RewardIron": 6,
+        "RewardCoins": 300
       },
       {
         "Biome": "Swamp",
         "TargetID": "Leech",
         "RewardGold": 0,
-        "RewardIron": 3,
-        "RewardCoins": 150,
-        "Adds": []
+        "RewardIron": 6,
+        "RewardCoins": 300
       },
       {
         "Biome": "Swamp",
         "TargetID": "Draugr",
         "RewardGold": 0,
-        "RewardIron": 3,
-        "RewardCoins": 160,
-        "Adds": []
+        "RewardIron": 6,
+        "RewardCoins": 320
       },
       {
         "Biome": "Swamp",
         "TargetID": "Surtling",
         "RewardGold": 0,
-        "RewardIron": 3,
-        "RewardCoins": 150,
-        "Adds": []
+        "RewardIron": 6,
+        "RewardCoins": 300
       },
       {
         "Biome": "Swamp",
         "TargetID": "Wraith",
-        "RewardGold": 1,
+        "RewardGold": 2,
         "RewardIron": 0,
-        "RewardCoins": 165,
-        "Adds": []
+        "RewardCoins": 330
       },
       {
         "Biome": "Swamp",
         "TargetID": "Draugr_Elite",
-        "RewardGold": 1,
+        "RewardGold": 2,
         "RewardIron": 0,
-        "RewardCoins": 165,
-        "Adds": []
+        "RewardCoins": 330
       },
       {
         "Biome": "Swamp",
         "TargetID": "Abomination",
-        "RewardGold": 2,
+        "RewardGold": 4,
         "RewardIron": 0,
-        "RewardCoins": 170,
-        "Adds": []
+        "RewardCoins": 340
       },
       {
         "Biome": "Swamp",
         "TargetID": "Draugr_Elite",
-        "RewardGold": 1,
-        "RewardIron": 5,
-        "RewardCoins": 170,
+        "RewardGold": 2,
+        "RewardIron": 10,
+        "RewardCoins": 340,
         "Adds": [
           {
             "ID": "Draugr",
@@ -2510,9 +2404,9 @@
       {
         "Biome": "Swamp",
         "TargetID": "Skeleton",
-        "RewardGold": 1,
-        "RewardIron": 5,
-        "RewardCoins": 165,
+        "RewardGold": 2,
+        "RewardIron": 10,
+        "RewardCoins": 330,
         "Adds": [
           {
             "ID": "Skeleton",
@@ -2524,48 +2418,43 @@
         "Biome": "Mountain",
         "TargetID": "Wolf",
         "RewardGold": 0,
-        "RewardIron": 4,
-        "RewardCoins": 230,
-        "Adds": []
+        "RewardIron": 8,
+        "RewardCoins": 460
       },
       {
         "Biome": "Mountain",
         "TargetID": "Wolf",
         "RewardGold": 0,
-        "RewardIron": 4,
-        "RewardCoins": 230,
-        "Adds": []
+        "RewardIron": 8,
+        "RewardCoins": 460
       },
       {
         "Biome": "Mountain",
         "TargetID": "Hatchling",
         "RewardGold": 0,
-        "RewardIron": 4,
-        "RewardCoins": 230,
-        "Adds": []
+        "RewardIron": 8,
+        "RewardCoins": 460
       },
       {
         "Biome": "Mountain",
         "TargetID": "Hatchling",
         "RewardGold": 0,
-        "RewardIron": 4,
-        "RewardCoins": 230,
-        "Adds": []
+        "RewardIron": 8,
+        "RewardCoins": 460
       },
       {
         "Biome": "Mountain",
         "TargetID": "Fenring",
-        "RewardGold": 2,
+        "RewardGold": 4,
         "RewardIron": 0,
-        "RewardCoins": 250,
-        "Adds": []
+        "RewardCoins": 500
       },
       {
         "Biome": "Mountain",
         "TargetID": "Fenring",
-        "RewardGold": 2,
-        "RewardIron": 5,
-        "RewardCoins": 270,
+        "RewardGold": 4,
+        "RewardIron": 10,
+        "RewardCoins": 540,
         "Adds": [
           {
             "ID": "Wolf",
@@ -2576,17 +2465,16 @@
       {
         "Biome": "Mountain",
         "TargetID": "StoneGolem",
-        "RewardGold": 2,
+        "RewardGold": 4,
         "RewardIron": 0,
-        "RewardCoins": 265,
-        "Adds": []
+        "RewardCoins": 530
       },
       {
         "Biome": "Mountain",
         "TargetID": "StoneGolem",
-        "RewardGold": 3,
-        "RewardIron": 3,
-        "RewardCoins": 300,
+        "RewardGold": 6,
+        "RewardIron": 6,
+        "RewardCoins": 600,
         "Adds": [
           {
             "ID": "StoneGolem",
@@ -2597,9 +2485,9 @@
       {
         "Biome": "Mountain",
         "TargetID": "Fenring_Cultist",
-        "RewardGold": 3,
-        "RewardIron": 3,
-        "RewardCoins": 250,
+        "RewardGold": 6,
+        "RewardIron": 6,
+        "RewardCoins": 500,
         "Adds": [
           {
             "ID": "Fenring_Cultist",
@@ -2610,9 +2498,9 @@
       {
         "Biome": "Mountain",
         "TargetID": "Fenring_Cultist",
-        "RewardGold": 3,
-        "RewardIron": 3,
-        "RewardCoins": 250,
+        "RewardGold": 6,
+        "RewardIron": 6,
+        "RewardCoins": 500,
         "Adds": [
           {
             "ID": "Ulv",
@@ -2624,48 +2512,43 @@
         "Biome": "Plains",
         "TargetID": "Goblin",
         "RewardGold": 0,
-        "RewardIron": 5,
-        "RewardCoins": 300,
-        "Adds": []
+        "RewardIron": 10,
+        "RewardCoins": 600
       },
       {
         "Biome": "Plains",
         "TargetID": "Goblin",
         "RewardGold": 0,
-        "RewardIron": 5,
-        "RewardCoins": 300,
-        "Adds": []
+        "RewardIron": 10,
+        "RewardCoins": 600
       },
       {
         "Biome": "Plains",
         "TargetID": "Goblin",
         "RewardGold": 0,
-        "RewardIron": 5,
-        "RewardCoins": 300,
-        "Adds": []
+        "RewardIron": 10,
+        "RewardCoins": 600
       },
       {
         "Biome": "Plains",
         "TargetID": "Lox",
         "RewardGold": 0,
-        "RewardIron": 5,
-        "RewardCoins": 310,
-        "Adds": []
+        "RewardIron": 10,
+        "RewardCoins": 620
       },
       {
         "Biome": "Plains",
         "TargetID": "BlobTar",
         "RewardGold": 0,
-        "RewardIron": 5,
-        "RewardCoins": 310,
-        "Adds": []
+        "RewardIron": 10,
+        "RewardCoins": 620
       },
       {
         "Biome": "Plains",
         "TargetID": "BlobTar",
-        "RewardGold": 1,
-        "RewardIron": 4,
-        "RewardCoins": 350,
+        "RewardGold": 2,
+        "RewardIron": 8,
+        "RewardCoins": 700,
         "Adds": [
           {
             "ID": "BlobTar",
@@ -2677,24 +2560,22 @@
         "Biome": "Plains",
         "TargetID": "Deathsquito",
         "RewardGold": 0,
-        "RewardIron": 5,
-        "RewardCoins": 290,
-        "Adds": []
+        "RewardIron": 10,
+        "RewardCoins": 580
       },
       {
         "Biome": "Plains",
         "TargetID": "Deathsquito",
         "RewardGold": 0,
-        "RewardIron": 5,
-        "RewardCoins": 290,
-        "Adds": []
+        "RewardIron": 10,
+        "RewardCoins": 580
       },
       {
         "Biome": "Plains",
         "TargetID": "Deathsquito",
-        "RewardGold": 3,
-        "RewardIron": 2,
-        "RewardCoins": 300,
+        "RewardGold": 6,
+        "RewardIron": 4,
+        "RewardCoins": 600,
         "Adds": [
           {
             "ID": "Deathsquito",
@@ -2705,17 +2586,16 @@
       {
         "Biome": "Plains",
         "TargetID": "GoblinBrute",
-        "RewardGold": 3,
-        "RewardIron": 1,
-        "RewardCoins": 310,
-        "Adds": []
+        "RewardGold": 6,
+        "RewardIron": 2,
+        "RewardCoins": 620
       },
       {
         "Biome": "Plains",
         "TargetID": "GoblinBrute",
-        "RewardGold": 3,
-        "RewardIron": 6,
-        "RewardCoins": 350,
+        "RewardGold": 6,
+        "RewardIron": 12,
+        "RewardCoins": 700,
         "Adds": [
           {
             "ID": "Goblin",
@@ -2726,9 +2606,9 @@
       {
         "Biome": "Plains",
         "TargetID": "GoblinBrute",
-        "RewardGold": 3,
-        "RewardIron": 9,
-        "RewardCoins": 350,
+        "RewardGold": 6,
+        "RewardIron": 18,
+        "RewardCoins": 700,
         "Adds": [
           {
             "ID": "Goblin",
@@ -2739,9 +2619,9 @@
       {
         "Biome": "Plains",
         "TargetID": "GoblinShaman",
-        "RewardGold": 3,
-        "RewardIron": 9,
-        "RewardCoins": 390,
+        "RewardGold": 6,
+        "RewardIron": 18,
+        "RewardCoins": 780,
         "Adds": [
           {
             "ID": "Goblin",
@@ -2752,9 +2632,9 @@
       {
         "Biome": "Plains",
         "TargetID": "GoblinShaman",
-        "RewardGold": 5,
-        "RewardIron": 4,
-        "RewardCoins": 400,
+        "RewardGold": 10,
+        "RewardIron": 8,
+        "RewardCoins": 800,
         "Adds": [
           {
             "ID": "GoblinBrute",
@@ -2769,49 +2649,44 @@
       {
         "Biome": "Plains",
         "TargetID": "Unbjorn",
-        "RewardGold": 3,
-        "RewardIron": 1,
-        "RewardCoins": 310,
-        "Adds": []
+        "RewardGold": 6,
+        "RewardIron": 2,
+        "RewardCoins": 620
       },
       {
         "Biome": "Plains",
         "TargetID": "Unbjorn",
-        "RewardGold": 3,
-        "RewardIron": 1,
-        "RewardCoins": 310,
-        "Adds": []
+        "RewardGold": 6,
+        "RewardIron": 2,
+        "RewardCoins": 620
       },
       {
         "Biome": "Ocean",
         "TargetID": "Serpent",
-        "RewardGold": 1,
+        "RewardGold": 2,
         "RewardIron": 0,
-        "RewardCoins": 330,
-        "Adds": []
+        "RewardCoins": 660
       },
       {
         "Biome": "Mistlands",
         "TargetID": "Seeker",
         "RewardGold": 0,
-        "RewardIron": 7,
-        "RewardCoins": 500,
-        "Adds": []
+        "RewardIron": 14,
+        "RewardCoins": 1000
       },
       {
         "Biome": "Mistlands",
         "TargetID": "SeekerBrute",
         "RewardGold": 0,
-        "RewardIron": 9,
-        "RewardCoins": 500,
-        "Adds": []
+        "RewardIron": 18,
+        "RewardCoins": 1000
       },
       {
         "Biome": "Mistlands",
         "TargetID": "SeekerBrute",
-        "RewardGold": 4,
-        "RewardIron": 5,
-        "RewardCoins": 500,
+        "RewardGold": 8,
+        "RewardIron": 10,
+        "RewardCoins": 1000,
         "Adds": [
           {
             "ID": "Seeker",
@@ -2822,9 +2697,9 @@
       {
         "Biome": "Mistlands",
         "TargetID": "Seeker",
-        "RewardGold": 4,
-        "RewardIron": 7,
-        "RewardCoins": 500,
+        "RewardGold": 8,
+        "RewardIron": 14,
+        "RewardCoins": 1000,
         "Adds": [
           {
             "ID": "SeekerBrood",
@@ -2835,41 +2710,37 @@
       {
         "Biome": "Mistlands",
         "TargetID": "Gjall",
-        "RewardGold": 5,
-        "RewardIron": 2,
-        "RewardCoins": 550,
-        "Adds": []
+        "RewardGold": 10,
+        "RewardIron": 4,
+        "RewardCoins": 1100
       },
       {
         "Biome": "AshLands",
         "TargetID": "FallenValkyrie",
-        "RewardGold": 5,
-        "RewardIron": 5,
-        "RewardCoins": 600,
-        "Adds": []
+        "RewardGold": 10,
+        "RewardIron": 10,
+        "RewardCoins": 1200
       },
       {
         "Biome": "AshLands",
         "TargetID": "Morgen_NonSleeping",
-        "RewardGold": 5,
-        "RewardIron": 5,
-        "RewardCoins": 600,
-        "Adds": []
+        "RewardGold": 10,
+        "RewardIron": 10,
+        "RewardCoins": 1200
       },
       {
         "Biome": "AshLands",
         "TargetID": "Charred_Melee",
-        "RewardGold": 3,
-        "RewardIron": 5,
-        "RewardCoins": 600,
-        "Adds": []
+        "RewardGold": 6,
+        "RewardIron": 10,
+        "RewardCoins": 1200
       },
       {
         "Biome": "AshLands",
         "TargetID": "Charred_Melee",
-        "RewardGold": 5,
-        "RewardIron": 9,
-        "RewardCoins": 650,
+        "RewardGold": 10,
+        "RewardIron": 18,
+        "RewardCoins": 1300,
         "Adds": [
           {
             "ID": "Charred_Archer",
@@ -2884,41 +2755,37 @@
       {
         "Biome": "DeepNorth",
         "TargetID": "JotunWarrior",
-        "RewardGold": 6,
-        "RewardIron": 6,
-        "RewardCoins": 700,
-        "Adds": []
+        "RewardGold": 12,
+        "RewardIron": 12,
+        "RewardCoins": 1400
       },
       {
         "Biome": "DeepNorth",
         "TargetID": "JotunWitch",
-        "RewardGold": 6,
-        "RewardIron": 6,
-        "RewardCoins": 700,
-        "Adds": []
+        "RewardGold": 12,
+        "RewardIron": 12,
+        "RewardCoins": 1400
       },
       {
         "Biome": "DeepNorth",
         "TargetID": "TrollFrost",
-        "RewardGold": 7,
-        "RewardIron": 8,
-        "RewardCoins": 800,
-        "Adds": []
+        "RewardGold": 14,
+        "RewardIron": 16,
+        "RewardCoins": 1600
       },
       {
         "Biome": "DeepNorth",
         "TargetID": "Skeleton_DeepNorth",
-        "RewardGold": 4,
-        "RewardIron": 6,
-        "RewardCoins": 700,
-        "Adds": []
+        "RewardGold": 8,
+        "RewardIron": 12,
+        "RewardCoins": 1400
       },
       {
         "Biome": "DeepNorth",
         "TargetID": "Greydwarf_Frozen",
-        "RewardGold": 6,
-        "RewardIron": 10,
-        "RewardCoins": 750,
+        "RewardGold": 12,
+        "RewardIron": 20,
+        "RewardCoins": 1500,
         "Adds": [
           {
             "ID": "Greydwarf_Shaman_Frozen",
@@ -2931,7 +2798,6 @@
         ]
       }
     ],
-    "Bosses": [],
     "Names": {
       "ChanceForSpecialName": 0.01,
       "SpecialNames": [
@@ -2940,6 +2806,9 @@
         "Oriana Venture, Slayer of Bugs",
         "Warp, The Galactic Nomad",
         "Midnight, Seeker of Knowledge",
+        "Leslie, Bringer of Balance",
+        "Mon Ami Rusty",
+        "Kevin, Controller of Chaos",
         "MajorGhosty, Super Tester",
         "Majestic, Super Tester",
         "Diamond Dave, Patron",
@@ -3287,110 +3156,38 @@
     "CostsByRarity": {
       "Magic": [
         {
-          "Item": "Coins",
-          "Amount": 10
-        },
-        {
-          "Item": "EssenceMagic",
-          "Amount": 10
-        },
-        {
-          "Item": "ReagentMagic",
-          "Amount": 10
-        },
-        {
-          "Item": "DustMagic",
-          "Amount": 10
+          "Item": "IronBountyToken",
+          "Amount": 1
         }
       ],
       "Rare": [
         {
-          "Item": "ForestToken",
+          "Item": "IronBountyToken",
           "Amount": 1
-        },
-        {
-          "Item": "EssenceRare",
-          "Amount": 10
-        },
-        {
-          "Item": "ReagentRare",
-          "Amount": 10
-        },
-        {
-          "Item": "DustRare",
-          "Amount": 10
         }
       ],
       "Epic": [
         {
           "Item": "IronBountyToken",
           "Amount": 1
-        },
-        {
-          "Item": "EssenceEpic",
-          "Amount": 10
-        },
-        {
-          "Item": "ReagentEpic",
-          "Amount": 10
-        },
-        {
-          "Item": "DustEpic",
-          "Amount": 10
         }
       ],
       "Legendary": [
         {
           "Item": "GoldBountyToken",
           "Amount": 1
-        },
-        {
-          "Item": "EssenceLegendary",
-          "Amount": 10
-        },
-        {
-          "Item": "ReagentLegendary",
-          "Amount": 10
-        },
-        {
-          "Item": "DustLegendary",
-          "Amount": 10
         }
       ],
       "Mythic": [
         {
           "Item": "GoldBountyToken",
-          "Amount": 2
-        },
-        {
-          "Item": "EssenceMythic",
-          "Amount": 10
-        },
-        {
-          "Item": "ReagentMythic",
-          "Amount": 10
-        },
-        {
-          "Item": "DustMythic",
-          "Amount": 10
+          "Amount": 1
         }
       ],
       "Ancient": [
         {
           "Item": "GoldBountyToken",
-          "Amount": 3
-        },
-        {
-          "Item": "EssenceAncient",
-          "Amount": 10
-        },
-        {
-          "Item": "ReagentAncient",
-          "Amount": 10
-        },
-        {
-          "Item": "DustAncient",
-          "Amount": 10
+          "Amount": 1
         }
       ]
     }
